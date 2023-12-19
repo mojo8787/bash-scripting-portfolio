@@ -6,6 +6,7 @@ scripting techniques and problem-solving skills in various scenarios.
 ## Scripts
 
 ### csv_data_pipeline.sh
+![Screenshot](screenshot.png)
 **Description**: This script automates the process of downloading a CSV 
 file, processing its content, and outputting a summary. It demonstrates 
 handling file downloads, text processing, and data summarization in bash.
